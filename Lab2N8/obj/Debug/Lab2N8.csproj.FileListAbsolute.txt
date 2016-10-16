@@ -1,0 +1,10 @@
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\bin\Debug\Lab2N8.exe.config
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\bin\Debug\Lab2N8.exe
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\bin\Debug\Lab2N8.pdb
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.csprojResolveAssemblyReference.cache
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.Form1.resources
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.Properties.Resources.resources
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.Search.resources
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.csproj.GenerateResource.Cache
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.exe
+C:\Users\Илья\YandexDisk\Лабы\C#\семестр 5\Комбинаторные алгоритмы\Lab2N8\Lab2N8\obj\Debug\Lab2N8.pdb
